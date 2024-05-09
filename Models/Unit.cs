@@ -8,8 +8,8 @@ namespace ECommerceProject.Models
 
         [Required, StringLength(15)]
         public string UnitName { get; set; }
-        public List<Product> Products { get; set; }
-        public List<PurchaseDetail> PurchaseDetails { get; set; }
+        public List<Product>? Products { get; set; }
+        public List<PurchaseDetail>? PurchaseDetails { get; set; }
         List<SaleDetail>? SaleDetails { get; set; }
     }
 }
