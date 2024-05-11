@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace ECommerceProject.Data.Migrations
+namespace ECommerceProject.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot
@@ -792,7 +792,7 @@ namespace ECommerceProject.Data.Migrations
                         .IsRequired();
 
                     b.HasOne("ECommerceProject.Models.Unit", "Unit")
-                        .WithMany()
+                        .WithMany("SaleDetails")
                         .HasForeignKey("UnitId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -944,6 +944,8 @@ namespace ECommerceProject.Data.Migrations
                     b.Navigation("Products");
 
                     b.Navigation("PurchaseDetails");
+
+                    b.Navigation("SaleDetails");
                 });
 
             modelBuilder.Entity("ECommerceProject.Models.Vendor", b =>

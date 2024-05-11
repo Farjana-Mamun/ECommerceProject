@@ -10,6 +10,6 @@ namespace ECommerceProject.Models
         public string UnitName { get; set; }
         public List<Product>? Products { get; set; }
         public List<PurchaseDetail>? PurchaseDetails { get; set; }
-        List<SaleDetail>? SaleDetails { get; set; }
+        public List<SaleDetail>? SaleDetails { get; set; }
     }
 }

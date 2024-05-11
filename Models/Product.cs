@@ -6,6 +6,9 @@ namespace ECommerceProject.Models
     {
         public int Id { get; set; }
 
+        [Required, StringLength(50)]
+        public string ProductName { get; set; }
+
         [Required]
         public int SubCategoryId { get; set; }
 
@@ -48,9 +51,6 @@ namespace ECommerceProject.Models
 
         [StringLength(300)]
         public string LongDescription { get; set; }
-
-        [Required, StringLength(50)]
-        public string ProductName { get; set; }
 
         public bool DiscountInPercent { get; set; }
 
