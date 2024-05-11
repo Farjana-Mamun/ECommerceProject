@@ -37,6 +37,38 @@
       "PackagePath": "staticwebassets\\images\\category\\category-6.jpg"
     },
     {
+      "Id": "D:\\Project\\ECommerceProject\\wwwroot\\images\\products\\Modern_table-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\Modern_table-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ECommerceProject\\wwwroot\\images\\products\\Modern_table-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\Modern_table-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ECommerceProject\\wwwroot\\images\\products\\Modern_table-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\Modern_table-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ECommerceProject\\wwwroot\\images\\products\\asus_laptop.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\asus_laptop.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ECommerceProject\\wwwroot\\images\\products\\ladies_bag-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ladies_bag-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ECommerceProject\\wwwroot\\images\\products\\ladies_bag-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ladies_bag-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ECommerceProject\\wwwroot\\images\\products\\ladies_bag-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ladies_bag-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ECommerceProject\\wwwroot\\images\\products\\ladies_shoe.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ladies_shoe.jpg"
+    },
+    {
       "Id": "D:\\Project\\ECommerceProject\\wwwroot\\images\\products\\product-1.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-1.jpg"
     },
@@ -87,6 +119,22 @@
     {
       "Id": "D:\\Project\\ECommerceProject\\wwwroot\\images\\products\\product-9.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ECommerceProject\\wwwroot\\images\\products\\showpiece-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\showpiece-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ECommerceProject\\wwwroot\\images\\products\\showpiece-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\showpiece-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ECommerceProject\\wwwroot\\images\\products\\sneakers-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\sneakers-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\ECommerceProject\\wwwroot\\images\\products\\sneakers-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\sneakers-2.jpg"
     },
     {
       "Id": "D:\\Project\\ECommerceProject\\wwwroot\\js\\site.js",
